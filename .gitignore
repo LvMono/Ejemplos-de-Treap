@@ -221,3 +221,25 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Java build directories
+out/
+bin/
+target/
+
+# Java IDEs
+*.iml
+.idea/
+.classpath
+.project
+.settings/
+
+# Python virtual environments
+.venv/
